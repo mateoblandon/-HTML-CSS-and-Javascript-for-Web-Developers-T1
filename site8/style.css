@@ -1,0 +1,87 @@
+body {
+ background: #f9e933;
+}
+
+header, main, footer {
+ min-width: 855px;
+
+}
+
+header .container, main .container, footer .container {
+ max-width: 855px;
+ margin: auto;
+ font-family: 'Jacques Francois', serif;
+}
+
+header .BT{
+	font-weight: bold;
+	font-size: 200%;
+}
+
+header {
+ background: white;
+ overflow: auto;
+}
+
+footer {
+	overflow: auto
+}
+header h1 {
+ float: left;
+ width: 570px;
+}
+header nav {
+ float: right;
+ width: 285px;
+}
+main {
+ background: white;
+ overflow: auto;
+}
+
+/*main h2 {
+ float: left;
+ width: 570px;
+}
+
+main p {
+ float: left;
+ width: 570px;
+}
+main h3 {
+ float: left;
+ width: 570px;
+}
+main ul {
+ float: left;
+ width: 570px;
+}*/
+
+div.MainPart {
+	float: left;
+ width: 570px;
+}
+
+div.contact {
+	float: left;
+ width: 570px;
+}
+
+div.sitemap {
+	float: right;
+ width: 285px;
+}
+
+div.ImageRight {
+	float: right;
+ width: 285px;
+}
+
+
+div.container {
+	padding: 20px;
+}
+
+h5.BT, h5.BT {
+	font-weight: bold;
+}
