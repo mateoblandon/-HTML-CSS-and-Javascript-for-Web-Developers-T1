@@ -1,0 +1,33 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+
+body {
+ width: 600px;
+ margin: auto;
+}
+
+
+
+
+.cleft{
+	float: left;
+}
+
+.cright{
+	float: right;
+}
+
+
+.clear {
+  clear: both;
+}
+
+.comments p:nth-child(even) {
+ background: lavender;
+}
+.comments p:nth-child(odd) {
+ background: gainsboro;
+}
